@@ -1,4 +1,4 @@
-# Magic Eden Sniper
+# [Deprecated] Magic Eden Sniper
 
 - Multi Threads
 - Custom rpc
